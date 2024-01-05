@@ -1,10 +1,6 @@
 entries:
   - title: instances of words
     post_list: true
-  - title: me
-    entries:
-      - title: photos (instagram@may.bekenny)
-        url: //instagram.com/may.bekenny
   - title: info
     entries:
       - title: you can get this series of words over <a href=/feed.xml>rss</a>, if you can find a reader that still works
